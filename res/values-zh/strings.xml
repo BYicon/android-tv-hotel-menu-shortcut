@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">酒店菜单</string>
+    <string name="setup_name">酒店菜单设置</string>
+    <string name="firmware">系统型号 %1$s · 固件 %2$s</string>
+    <string name="setup_help">填写适用于这台电视固件的菜单入口。试用后按返回键回到这里，再保存为一键入口。</string>
+    <string name="component_hint">组件（包名 / 页面类名）</string>
+    <string name="action_hint">启动动作（选填）</string>
+    <string name="extra_name_hint">整数参数名称（选填）</string>
+    <string name="extra_value_hint">整数参数值</string>
+    <string name="try_menu">试用</string>
+    <string name="save_menu">保存</string>
+    <string name="load_preset">加载 TCL 预设</string>
+    <string name="menu_unavailable">这台电视无法打开所选菜单</string>
+    <string name="invalid_target">请输入包名和页面类名。整数参数的名称和值须同时填写或留空。</string>
+    <string name="target_saved">已保存。现在可以从应用列表打开酒店菜单。</string>
+    <string name="save_failed">菜单设置保存失败，请重试。</string>
+</resources>

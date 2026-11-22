@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hotel Menu</string>
+    <string name="setup_name">Hotel Menu Setup</string>
+    <string name="firmware">%1$s · Build %2$s</string>
+    <string name="setup_help">Enter the menu activity for this firmware. Try it, press Back to return here, then save it for one-click access.</string>
+    <string name="component_hint">Component (package / activity)</string>
+    <string name="action_hint">Action (optional)</string>
+    <string name="extra_name_hint">Integer extra name (optional)</string>
+    <string name="extra_value_hint">Integer extra value</string>
+    <string name="try_menu">Try</string>
+    <string name="save_menu">Save</string>
+    <string name="load_preset">Load TCL preset</string>
+    <string name="menu_unavailable">This TV could not open the selected menu</string>
+    <string name="invalid_target">Enter a package/activity and provide both integer extra fields or leave them empty.</string>
+    <string name="target_saved">Saved. Open Hotel Menu from your apps.</string>
+    <string name="save_failed">Could not save the menu. Try again.</string>
+</resources>
