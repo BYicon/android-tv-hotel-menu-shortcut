@@ -1,4 +1,4 @@
-# Android TV 酒店菜单快捷入口
+# TV Hotel Menu — Android TV 音量上限菜单
 
 [English](README.md) · 简体中文
 
@@ -8,7 +8,7 @@
 
 ## 安装
 
-1. 从 [GitHub Releases](https://github.com/BYicon/android-tv-hotel-menu-shortcut/releases/latest) 下载并解压 APK 安装包。
+1. 从 [GitHub Releases](https://github.com/BYicon/tv-hotel-menu/releases/latest) 下载并解压 APK 安装包。
 2. 安装 `Hotel-Menu-Shortcut.apk`。支持从移动存储安装 APK 的固件，可以通过 U 盘和电视的媒体中心安装。本项目实测使用 ADB 安装。 [TCL 安装说明](https://detail.youzan.com/show/shopnote/detail?alias=fXf4vHMVxL)
 3. 从电视应用列表打开 **酒店菜单**。装好后日常只用遥控器即可。
 

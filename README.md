@@ -1,4 +1,4 @@
-# Android TV Hotel Menu Shortcut
+# TV Hotel Menu — Android TV Volume Limit Menu
 
 English · [简体中文](README.zh-CN.md)
 
@@ -8,7 +8,7 @@ Turn on **Hotel Enable**, then set the ceiling under **Max Volume**. **Preset Vo
 
 ## Install
 
-1. Download and extract the APK installation ZIP from [GitHub Releases](https://github.com/BYicon/android-tv-hotel-menu-shortcut/releases/latest).
+1. Download and extract the APK installation ZIP from [GitHub Releases](https://github.com/BYicon/tv-hotel-menu/releases/latest).
 2. Install `Hotel-Menu-Shortcut.apk`. You can use a USB drive and the TV's media center on firmware that permits APK installation from USB. The verified installation used ADB. [TCL installation guide](https://detail.youzan.com/show/shopnote/detail?alias=fXf4vHMVxL)
 3. Open **Hotel Menu** from the TV's app list. The shortcut runs locally with a remote after installation.
 
